@@ -1,1 +1,1 @@
-resources i used for my code were chat gpt
+The logistic regression model performs well overall, especially in identifying healthy loans (Class 0), with high precision and recall. It is also quite effective at predicting high-risk loans (Class 1), achieving high precision (meaning most predicted high-risk loans truly are high-risk). However, the recall for high-risk loans is lower, indicating that the model misses some of them. This suggests a slight bias toward predicting loans as healthy but still offers strong classification performance for both labels.
